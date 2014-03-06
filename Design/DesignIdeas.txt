@@ -1,1 +1,45 @@
-TEST
+Application Pet Track
+
+Overview
+	- The purpose of the application is to facilitate with the tracking of pet activities.
+	- The app will have the ability to store all of the important daily pet activities and will be synced on all devices under the account.
+	- Key features will consists of a very simple and fast using interface. 
+		- This will be important to attract customers and make the app be as useful and least time consuming as possible.
+		- Built in alerts (timer) can be set to remind users when a pet activity needs to be done.
+
+Application Initial Start
+	- First time users will be required to make an account with an email, password, and optional user name.
+	- This will allow various users of the household or pet caretakers to access the pet's daily activities. 
+	- The pet name and basic information must be added as a profile in order to input information.
+		- Pet profile optionals: Picture, sex, breed, DOB
+
+Home Screen (Interface)
+	- The main or start up screen will show the Pet name at the top with its most recent activities under it.
+	- Under the latest activity there will be an option to press a check mark on the next activity that will be done.
+	- Once the check is pressed it will move up to the list of recent activities.
+	- Date and time will be integrated to the selection process and will be shown on the recent activities list.
+	- Swiping left or right on the screen will allow to switch from one pet to another.
+	- Settings can be accessed by swiping from the outside top left of the screen to the right or pressing the top left icon.
+
+Features
+	- There will be an undo latest activity button.
+	- There will be a modify actvities option.
+	- EVery week the statistics on the activity list will be input to produce a data table that can accessed. 
+	- The data table will show in better detail the daily activities and will keep the home screen clean.
+	- Alerts can be set to remind pet owners when to take out or feed the dog.
+	- If no alerts are manually inputed, the application can make alerts based on the previous data entries.
+	- Alerts can be sent to your phone when an activity has taken place.
+
+Extras
+	- Future updates can include the ability to add a custom activity to be loggon such as training the dog.
+
+Settings
+	- Ability to add or modify pet profiles.
+	- Ability to manage alerts.
+
+Product Mission
+	- With the simple logging of activities, the entire family can be updated on all pet activities.
+	- This will eliminate the occurence of "accidents" in the house hold.
+	- This will eliminate the wondering if the pet was fed or not.
+
+	 
